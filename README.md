@@ -18,4 +18,9 @@ To help you explore and understand the methodology and code, we will provide a *
 - 📄 Source code will be uploaded soon.
 - 📊 Sample data will be available to help reproduce our workflow.
 
-Thank you for your interest!
+## 📫 Contact
+
+If you have any questions or suggestions, feel free to reach out via email:  
+**📧 17640429501@163.com**
+
+Thank you for your interest and support!
