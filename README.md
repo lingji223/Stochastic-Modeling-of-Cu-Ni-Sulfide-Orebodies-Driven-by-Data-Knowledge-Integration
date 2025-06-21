@@ -1,4 +1,21 @@
-# Stochastic-Modeling-of-Cu-Ni-Sulfide-Orebodies-Driven-by-Data-Knowledge-Integration
-Hello, nice to meet you. Here is the paper "Stochastic Modeling of Cu-Ni Sulfide Orebodies Driven by Data-Knowledge Integration: the data repository of "A Case Study from the Eastern Tianshan Cu-Ni Deposit". We will upload the source code when the paper is accepted. 
+# Stochastic Modeling of Cu-Ni Sulfide Orebodies Driven by Data–Knowledge Integration
 
-However, due to the confidentiality agreement signed between us and the mining area, we are sorry to inform you that we cannot disclose the geological data. But don't lose heart! We will give you a sample piece of data to help you better understand my code!
+Welcome! 👋 This repository accompanies the paper:
+
+**_“Stochastic Modeling of Cu-Ni Sulfide Orebodies Driven by Data–Knowledge Integration: A Case Study from the Eastern Tianshan Cu-Ni Deposit”_**
+
+We will release the source code upon acceptance of the paper.
+
+## 🔐 Data Availability
+
+Please note that, due to a confidentiality agreement with the mining company, we are unable to publicly share the full geological dataset used in this study.
+
+However — don’t worry! 🎉  
+To help you explore and understand the methodology and code, we will provide a **sample dataset** that mimics the structure and key features of the original data.
+
+## 📌 Stay Tuned
+
+- 📄 Source code will be uploaded soon.
+- 📊 Sample data will be available to help reproduce our workflow.
+
+Thank you for your interest!
