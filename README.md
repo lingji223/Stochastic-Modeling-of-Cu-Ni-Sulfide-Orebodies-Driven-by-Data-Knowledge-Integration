@@ -6,7 +6,7 @@ Welcome! 👋 This repository accompanies the paper:
 
 We will release the source code upon acceptance of the paper.
 
-## 🔐 Data Availability
+## 🔐 Geological Data Availability
 
 Please note that, due to a confidentiality agreement with the mining company, we are unable to publicly share the full geological dataset used in this study.
 
